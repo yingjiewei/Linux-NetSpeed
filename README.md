@@ -1,3 +1,5 @@
+# from Yingjie Wei: this is not a good script: to see: https://github.com/v2fly/fhs-install-v2ray/ 
+
 # Linux-NetSpeed
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
